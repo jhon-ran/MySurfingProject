@@ -1,0 +1,36 @@
+
+.jumbotron {
+height: 500px;
+background-image:url("surf.jpg");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color: #2C3E50;
+text-align: center;
+ }
+
+ .card-deck{
+     margin-top: 50px;
+ }
+
+.card{
+    border: none;
+    align-content: center;
+    text-align: center;
+}
+
+
+.card-title{
+    text-align: center;
+}
+
+.fas {
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+.card-img-top {
+    width: auto;
+    object-fit: contain;
+}
